@@ -8,13 +8,13 @@ In pursuit of enhancing the company's performance and fostering strategic growth
 
 I arrived at this analysis by following the process flowchart outlined below: 
 
- Data transformation and cleaning
+- Data transformation and cleaning
  
- Data visualization
+ -Data visualization
  
- Drawing insights
+- Drawing insights
  
- Arriving at a conclusion.
+- Arriving at a conclusion.
 
 The analysis I conducted aimed to determine the number of bikes purchased and tp address these specific questions.
 
