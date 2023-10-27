@@ -10,7 +10,7 @@ I arrived at this analysis by following the process flowchart outlined below:
 
 - Data transformation and cleaning
  
- -Data visualization
+- Data visualization
  
 - Drawing insights
  
