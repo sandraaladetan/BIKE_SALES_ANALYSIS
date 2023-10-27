@@ -7,9 +7,13 @@ Introduction
 In pursuit of enhancing the company's performance and fostering strategic growth, I undertook a comprehensive bike-scale analysis. This endeavor was aimed at providing invaluable insights to assess current operations, identify areas for improvement, and ultimately guide the company towards informed decisions that would spur expansion and foster profitability.
 
 I arrived at this analysis by following the process flowchart outlined below: 
+
  Data transformation and cleaning
+ 
  Data visualization
+ 
  Drawing insights
+ 
  Arriving at a conclusion.
 
 The analysis I conducted aimed to determine the number of bikes purchased and tp address these specific questions.
